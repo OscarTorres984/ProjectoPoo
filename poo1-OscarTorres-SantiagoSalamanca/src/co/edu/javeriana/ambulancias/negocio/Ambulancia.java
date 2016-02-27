@@ -64,6 +64,7 @@ public void setPlaca(String placa) {
  * @return the tipoDotacion
  */
 public String getTipoDotacion() {
+	//Hola Santiago, Si ve esto?
 	return tipoDotacion;
 }
 /**
